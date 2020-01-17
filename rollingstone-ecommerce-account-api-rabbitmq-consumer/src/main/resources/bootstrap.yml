@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rollingstone-ecommerce-account-api-rabbitmq-consumer
+  cloud:
+    config:
+      uri: http://localhost:9000
